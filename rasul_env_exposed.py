@@ -1,7 +1,7 @@
 
 #  COMP2152 — Term Project: CTF Bug Bounty
 #  Vulnerability: Directory Listing + Exposed .env File
-#  Author: Rasul
+#  Author: Rasul Dadashbayli 
 #  Branch: rasul_env_exposed
 #
 #  Description:

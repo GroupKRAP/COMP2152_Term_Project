@@ -1,7 +1,7 @@
 
 #  COMP2152 — Term Project: CTF Bug Bounty
 #  Vulnerability: Outdated TLS / Deprecated SSL Protocols
-#  Author: Alikhan
+#  Author: Alikhan Zhilkibayev
 #  Branch: alikhan_deprecated_tls
 #
 #  Description:

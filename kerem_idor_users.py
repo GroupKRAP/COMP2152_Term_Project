@@ -1,7 +1,7 @@
 
 #  COMP2152 — Term Project: CTF Bug Bounty
 #  Vulnerability: IDOR — Insecure Direct Object Reference
-#  Author: Kerem
+#  Author: Kerem Bas 101561777
 #  Branch: kerem_idor_users
 #
 #  Description:
